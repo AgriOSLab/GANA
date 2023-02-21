@@ -27,4 +27,5 @@ this work is published in 2022 IEEE International Conference on Knowledge Graph 
 1. Config.py: the configuration;
 2. dowmModel.py: dowmload pre-trained language model on local disk;
 3. Model.py: models;
-4. main.py: 
+4. main.py: traditional text classification method based on pre-trained language model, e.g. BERT;
+5. GAN.py: our method
