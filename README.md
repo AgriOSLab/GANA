@@ -1,6 +1,10 @@
 # A Generative Adversarial Net Assisted Method for User Intention Recognition on Imbalanced Dataset
 We will add more descriptions after our paper "A Generative Adversarial Net Assisted Method for User Intention Recognition on Imbalanced Dataset" been published.
 
+this work is published in 2022 IEEE International Conference on Knowledge Graph (ICKG), you may site this by: 
+
+[1]. Z. Li, Z. Jin, R. Wang, J. Ji and H. Liu, "A Generative Adversarial Net Assisted Method for User Intention Recognition on Imbalanced Dataset," 2022 IEEE International Conference on Knowledge Graph (ICKG), Orlando, FL, USA, 2022, pp. 157-163, doi: 10.1109/ICKG55886.2022.00027.
+
 ## Dataset
 1. the dataset used in our paper is collected by ourself, and we now supply it for everyone.
 2. the dataset consists of questions in agricultural domain.
@@ -17,3 +21,6 @@ We will add more descriptions after our paper "A Generative Adversarial Net Assi
 | 6	| Ask for son classes	| 8	| 14  |	12 |
 | 7	| Ask for locations	| 2231	| 318 |	636 |
 | 8	| Others	| 147 |	21 |	40 |
+
+
+## Code
