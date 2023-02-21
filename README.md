@@ -29,3 +29,10 @@ this work is published in 2022 IEEE International Conference on Knowledge Graph 
 3. Model.py: models;
 4. main.py: traditional text classification method based on pre-trained language model, e.g. BERT;
 5. GAN.py: our method
+
+## Details of Model.py
+BertClassification: Model using BERT for classification task, using the [CLS] embedding and fully connection layer, output logits;
+BertBase: Bert model that outputs the [CLS] embedding;
+GANBert: our model contains three part: BertBase, Generator and Discriminator;
+Generator: to generate vectors with minority classes vector as input;
+Discriminator: a fully connection layer to classify sentence.
