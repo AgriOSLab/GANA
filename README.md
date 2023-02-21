@@ -36,3 +36,6 @@ this work is published in 2022 IEEE International Conference on Knowledge Graph 
 3. GANBert: our model contains three part: BertBase, Generator and Discriminator;
 4. Generator: to generate vectors with minority classes vector as input;
 5. Discriminator: a fully connection layer to classify sentence.
+
+## Our Model
+![model](https://user-images.githubusercontent.com/94960685/220247868-0b93dfbf-4301-4a5d-8b34-37cf5df01aff.png)
