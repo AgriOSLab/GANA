@@ -29,6 +29,7 @@ this work is published in 2022 IEEE International Conference on Knowledge Graph 
 3. Model.py: models;
 4. main.py: traditional text classification method based on pre-trained language model, e.g. BERT;
 5. GAN.py: our method
+6. utils.py: functions for loading dataset and calculatinng scores
 
 ## Details of Model.py
 1. BertClassification: Model using BERT for classification task, using the [CLS] embedding and fully connection layer, output logits;
