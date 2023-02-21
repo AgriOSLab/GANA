@@ -24,3 +24,7 @@ this work is published in 2022 IEEE International Conference on Knowledge Graph 
 
 
 ## Code
+1. Config.py: the configuration;
+2. dowmModel.py: dowmload pre-trained language model on local disk;
+3. Model.py: models;
+4. main.py: 
